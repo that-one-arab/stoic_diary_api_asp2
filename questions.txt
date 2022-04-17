@@ -1,0 +1,1 @@
+which files / folders should I put in .gitignore?
